@@ -1,0 +1,57 @@
+Machine Learning Model
+Regression 
+1.Linear
+2.Logistic
+
+regression -Continuous Prediction
+these models predicts continuous numberic outcomes by learning relation ship between input features and output
+
+Decision Tree
+ a tree structured model splitting data into subsets
+
+Ai 
+It is a structure that is used to ake machines think like humans
+it makes the machines intelligent and think themselves
+
+ML
+
+
+model buiding
+Data 80/20 or 70/30
+ the data first is trained and 20 is real time
+
+is null
+
+pandas is used to 
+
+numpy
+pandas
+matplotlib
+seaborn
+
+load data
+y=pd.read
+
+data.info()
+
+index(['Correction'],dtype='object')
+
+
+model evaluation
+
+deviation td 
+
+
+git:
+
+Track changes in your code/project
+Go back to older versions if something breaks
+Work with multiple people on the same project without confusion
+Manage different versions (branches) of your code
+
+GitHub:
+Hosting for your code
+Tools for collaboration (issues, pull requests)
+A web interface to view your projects
+CI/CD, documentation, project management
+

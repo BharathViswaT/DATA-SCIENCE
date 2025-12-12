@@ -1,0 +1,64 @@
+KEY PERFORMANCE INDICATORS
+	It shows how will a company or a project or process are performing
+
+DATA CLEANING
+	Handling missing values and incorrect values
+
+EDA (Exploratory Data analysis)
+	trend-Peak or Fall (Short period of Time)
+	Seasonality- Continuation of the trend(Long period of time)
+analyzing the deviation, changes and updations is Eda
+Datapoint-Collected Data(single data)
+Building the machine and analysing the performance
+
+Legends-Representing different data's with different colours or symbols to make identification Easy
+
+Features-
+
+IDE(Integrated development environment)
+
+
+ m
+plot in mathplotlib
+
+line plot
+scatter plot-scatter
+bar plot-bar
+horizontal bar -barh
+histogram-hist
+piechart-pie
+box plot-boxplot
+
+heat or frequency maps
+
+steps involved in model building
+
+
+workflow
+problem definition 
+Identifying the problem before starting the project
+
+data collection 
+collecting datas for creating a solution
+
+preprocessing 
+cleaning the unstructured data using techniques from eda like cleaning
+
+feature engineering
+
+model selection
+Selecting which algorithm is used to solve the problem
+
+training 
+Using the data collected to  train the ml for identifying the solution 
+
+evaluation 
+The training result is evaluated to check whether the answer is right or not
+
+deployment 
+implementing the ml in real time and gets value from real tim
+
+monitoring
+Monitoring the users response and downloads and logins
+
+
